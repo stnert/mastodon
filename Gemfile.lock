@@ -578,7 +578,7 @@ GEM
       useragent
     securecompare (1.0.0)
     semantic_range (2.3.0)
-    sidekiq (6.1.3)
+    sidekiq (6.2.1)
       connection_pool (>= 2.2.2)
       rack (~> 2.0)
       redis (>= 4.2.0)
@@ -802,7 +802,7 @@ DEPENDENCIES
   sanitize (~> 5.2)
   scenic (~> 1.5)
   secure_headers (~> 3.5)
-  sidekiq (~> 6.1)
+  sidekiq (~> 6.2)
   sidekiq-bulk (~> 0.2.0)
   sidekiq-scheduler (~> 3.0)
   sidekiq-unique-jobs (~> 6.0)
