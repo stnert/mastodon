@@ -30,8 +30,6 @@ gem 'charlock_holmes', '~> 0.7.7'
 gem 'iso-639'
 gem 'chewy', '~> 7.2'
 gem 'cld3', '~> 3.4.1'
-gem 'devise', '~> 4.7'
-gem 'devise-two-factor', '~> 4.0'
 
 group :pam_authentication, optional: true do
   gem 'devise_pam_authenticatable2', '~> 9.2'
