@@ -5,7 +5,6 @@ ruby '>= 2.5.0', '< 3.0.0'
 
 gem 'pkg-config', '~> 1.4'
 
-gem 'puma', '~> 5.1'
 gem 'thor', '~> 1.1'
 gem 'rack', '~> 2.2.3'
 
