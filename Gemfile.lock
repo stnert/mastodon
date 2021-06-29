@@ -206,9 +206,6 @@ GEM
     erubi (1.10.0)
     et-orbi (1.2.4)
       tzinfo
-    excon (0.81.0)
-    fabrication (2.21.1)
-    faker (2.18.0)
       i18n (>= 1.6, < 2)
     faraday (1.4.2)
       faraday-em_http (~> 1.0)
@@ -707,8 +704,6 @@ DEPENDENCIES
   doorkeeper (~> 5.5)
   dotenv-rails (~> 2.7)
   ed25519 (~> 1.2)
-  fabrication (~> 2.21)
-  faker (~> 2.18)
   fast_blank (~> 1.0)
   fastimage
   fog-core (<= 2.1.0)
