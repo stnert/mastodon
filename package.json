@@ -139,7 +139,7 @@
     "react-redux-loading-bar": "^5.0.0",
     "react-router-dom": "^4.1.1",
     "react-router-scroll-4": "^1.0.0-beta.1",
-    "react-select": "^3.2.0",
+    "react-select": "^4.3.1",
     "react-sparklines": "^1.7.0",
     "react-swipeable-views": "^0.14.0",
     "react-textarea-autosize": "^8.3.3",
@@ -165,7 +165,7 @@
     "uuid": "^8.3.1",
     "webpack": "^4.46.0",
     "webpack-assets-manifest": "^5.0.6",
-    "webpack-bundle-analyzer": "^4.4.0",
+    "webpack-bundle-analyzer": "^4.4.2",
     "wicg-inert": "^3.1.1"
   },
   "devDependencies": {
@@ -174,7 +174,7 @@
     "babel-eslint": "^10.1.0",
     "babel-jest": "^27.0.6",
     "eslint": "^7.29.0",
-    "eslint-plugin-import": "~2.22.1",
+    "eslint-plugin-import": "~2.23.4",
     "eslint-plugin-jsx-a11y": "~6.4.1",
     "eslint-plugin-promise": "~4.3.1",
     "eslint-plugin-react": "~7.24.0",
@@ -184,7 +184,7 @@
     "react-test-renderer": "^16.14.0",
     "sass-lint": "^1.13.1",
     "webpack-dev-server": "^3.11.2",
-    "yargs": "^16.2.0"
+    "yargs": "^17.0.1"
   },
   "resolutions": {
     "kind-of": "^6.0.3"
