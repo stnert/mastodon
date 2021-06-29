@@ -354,7 +354,6 @@ GEM
       nokogiri (~> 1)
       rake
     mini_mime (1.0.2)
-    mini_portile2 (2.5.3)
     minitest (5.14.4)
     msgpack (1.4.2)
     multi_json (1.15.0)
@@ -619,7 +618,7 @@ GEM
     stoplight (2.2.1)
     streamio-ffmpeg (3.0.2)
       multi_json (~> 1.8)
-    strong_migrations (0.7.6)
+    strong_migrations (0.7.7)
       activerecord (>= 5)
     temple (0.8.2)
     terminal-table (3.0.1)
