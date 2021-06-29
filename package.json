@@ -63,7 +63,7 @@
     "@babel/plugin-proposal-class-properties": "^7.8.3",
     "@babel/plugin-proposal-decorators": "^7.14.5",
     "@babel/plugin-transform-react-inline-elements": "^7.14.5",
-    "@babel/plugin-transform-runtime": "^7.12.15",
+    "@babel/plugin-transform-runtime": "^7.14.5",
     "@babel/preset-env": "^7.14.7",
     "@babel/preset-react": "^7.14.5",
     "@babel/runtime": "^7.12.5",
@@ -166,8 +166,6 @@
     "webpack": "^4.46.0",
     "webpack-assets-manifest": "^5.0.6",
     "webpack-bundle-analyzer": "^4.4.0",
-    "webpack-cli": "^3.3.12",
-    "webpack-merge": "^5.7.3",
     "wicg-inert": "^3.1.1"
   },
   "devDependencies": {
